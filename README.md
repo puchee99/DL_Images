@@ -50,6 +50,10 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#car-number-plate">Car number plate</a></li>
+        <li><a href="#malignant-cancer-detector">Malignant cancer detector</a></li>
+      </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -62,6 +66,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+Projects:
+  * Car number plate reader using DL.
+    The input is an image of the entire car from the front. The output a string with the    characters.
+  * Malignant cancer detector.
+    The input is a .nii image from a patient with cancer. The output says if the cancer is benign or malignant.
+    
+### Car number plate
 ![car]
 
 [Global][car]
@@ -78,15 +89,12 @@
 
 [Score][car3]
 
+### Malignant cancer detector
+
 ![cancer]
 
 [Cancer image][cancer]
 
-Projects:
-  * Car number plate reader using DL.
-    The input is an image of the entire car from the front. The output a string with the    characters.
-  * Malignant cancer detector.
-    The input is a .nii image from a patient with cancer. The output says if the cancer is benign or malignant.
    
 
 <p align="right">(<a href="#top">back to top</a>)</p>
