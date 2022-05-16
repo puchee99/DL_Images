@@ -63,8 +63,9 @@
 ## About The Project
 
 ![product-screenshot]
-
 [Image][product-screenshot]
+![product-screenshot2]
+[Image][product-screenshot2]
 
 Projects:
   * Car number plate reader using DL.
@@ -90,7 +91,7 @@ Projects:
 
 ## Usage
 
-Run `python train.py`
+This project does not contain the data to be able to test the code.
 
 
 ## Roadmap
