@@ -17,7 +17,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/puchee99/DL_Images">
-    <img src="images/info.png" alt="Logo" width="80" height="80">
+    <img src="images/CV.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">DL on images</h3>
