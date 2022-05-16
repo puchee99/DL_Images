@@ -17,7 +17,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/puchee99/DL_Images">
-    <img src="images/pytorch.png" alt="Logo" width="80" height="80">
+    <img src="images/info.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">DL on images</h3>
@@ -96,7 +96,7 @@ Run `python train.py`
 ## Roadmap
 
 - [x] Car number plate
-- [x] Loggers
+- [x] Cancer detector
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -127,4 +127,5 @@ Project Link: [https://github.com/puchee99/DL_Images](https://github.com/puchee9
 [license-url]: https://github.com/puchee99/DL_Images/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/arnau-puche-vila-ds/
-[product-screenshot]: images/figures.png
+[product-screenshot]: images/captura1.png
+[product-screenshot2]: images/captura2.png
