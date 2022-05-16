@@ -67,12 +67,15 @@
 ## About The Project
 
 Projects:
-  * Car number plate reader using DL.
-    The input is an image of the entire car from the front. The output a string with the    characters.
+  * Car number plate reader.
+  
   * Malignant cancer detector.
-    The input is a .nii image from a patient with cancer. The output says if the cancer is benign or malignant.
+    
     
 ### Car number plate
+
+The input is an image of the entire car from the front. The output a string with the characters.
+
 ![car]
 
 [Global][car]
@@ -90,6 +93,8 @@ Projects:
 [Score][car3]
 
 ### Malignant cancer detector
+
+The input is a .nii image from a patient with cancer. The output says if the cancer is benign or malignant.
 
 ![cancer]
 
