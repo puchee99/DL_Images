@@ -62,13 +62,25 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![product-screenshot]
+![car]
 
-[Car number plate][product-screenshot]
+[Global][car]
 
-![product-screenshot2]
+![car1]
 
-[Cancer detector][product-screenshot2]
+[Process2][car1]
+
+![car2]
+
+[Process3][car2]
+
+![car3]
+
+[Score][car3]
+
+![cancer]
+
+[Cancer image][cancer]
 
 Projects:
   * Car number plate reader using DL.
@@ -131,5 +143,8 @@ Project Link: [https://github.com/puchee99/DL_Images](https://github.com/puchee9
 [license-url]: https://github.com/puchee99/DL_Images/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/arnau-puche-vila-ds/
-[product-screenshot]: images/captura.png
-[product-screenshot2]: images/captura2.png
+[car]: images/car.png
+[car1]: images/car1.png
+[car2]: images/car2.png
+[car3]: images/car3.png
+[cancer]: images/cancer.png
